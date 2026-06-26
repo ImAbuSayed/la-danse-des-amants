@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/la-danse-des-amants/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for La Danse Des Amants](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/la-danse-des-amants/) |
+| **Get License** | [Commercial Licensing for La Danse Des Amants](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/la-danse-des-amants/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dans la pénombre, ton parfum m'appelle, come closer
+> Je veux sentir ton souffle chaud sur mon cœur
+> On glisse ensemble, on the edge du danger
+> Laisse-moi t'emmener où la nuit va tout changer
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
