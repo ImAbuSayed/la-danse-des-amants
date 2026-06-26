@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/la-danse-des-amants/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for La Danse Des Amants](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/la-danse-des-amants/) |
+| **Get License** | [Get License For La Danse Des Amants](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/la-danse-des-amants/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `6270dea16457ce89d5d6ea8482da6bf2ba30145cdbaaa97f85358e9a6e21552d` |
 | **Timestamp** | June 27, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
